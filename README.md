@@ -47,9 +47,7 @@ I love working with <b>Flutter</b>, <b>Firebase</b>, and RESTful APIs to turn id
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshawky01&theme=tokyonight" alt="Ahmed Shawky's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshawky01&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
