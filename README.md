@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed Shawqui 👋</h1>
 
 <p align="center">
-💻 <b>Flutter Developer</b> | 📱 <b>Mobile App Creator</b><br>
-Passionate about building beautiful, fast, and user-friendly mobile apps.<br>
-I love working with <b>Flutter</b>, <b>Firebase</b>, and RESTful APIs to turn ideas into real apps.
+
 </p>
 
 <!-- Banner Section (Moved Below Name) -->
